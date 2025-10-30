@@ -1,24 +1,25 @@
- Hi there, I'm Hosama Adem !
+# CSEC_CPD
 
-Welcome to my GitHub profile! I'm a passionate and curious computer science student currently studying at ASTU. I'm always learning, building, and experimenting with new technologies.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)  
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](#)  
 
-## About Me
+## Description
 
-- 🎓 Freshman @ ASTU, studying Computer Science and Engineering
-- 💻 I code in Python and C++
-- 🔭 Currently working on: a Snake Game and solving Codeforces problems
-- 🧠 Learning: Algorithms, C++, and Emerging Technologies
-- 🎯 Goal: Become a strong problem-solver and build real-world projects
+CSEC_CPD is a collection of algorithmic problem solutions, coding challenges, and small utility scripts written in Python (and occasionally C++).  
+It acts as a portfolio / practice repository to track progress in competitive programming, algorithmic puzzles, and general coding exercises.
 
-## My Tools & Tech
+## Features
 
-- Languages: Python, C++, HTML/CSS
-- Tools: GitHub, VS Code (on mobile!), Replit, Jupyter
-- Interests: Game Dev, Competitive Programming, AI, Tech Trends
+- A wide variety of solved problems (e.g. sequences, geometry, string manipulation)  
+- Clean, well-commented Python code  
+- Problem-wise organization so you can easily navigate by topic  
+- A “Team” folder and other categorized sections for special projects
 
-## Let's Connect
+## Tech Stack & Tools
 
-- linkedin (https://www.linkedin.com/in/hosam_123456?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCNcv8YPBTuGJkxh8wGR1GA%3D%3D)
-- Email: hosamaadem8@gmail.com
+- **Languages:** Python (main), C++  
+- **Tools:** Git / GitHub, VS Code, Jupyter, (Replit for demos)  
+- **Concepts:** Algorithms, data structures, problem solving, computational geometry, sequences, etc.
 
-Thanks for visiting my profile!
+## Repository Structure
+
